@@ -1,0 +1,37 @@
+.container{
+    width: 500px;
+    height: 400px;
+    background-color: #f3efef;
+    box-shadow: 5px 5px #2f272745, -3px -3px #3c323229;
+    margin: auto;
+    margin-top: 102px;
+}
+
+
+h1{
+    padding-top: 70px;
+    margin-left: 39px;
+}
+
+.label{
+    font-size: 19px;
+    margin-left: 39px;
+}
+
+
+.input{
+    padding: 10px;
+    width: 285px;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+
+
+
+.btn{
+    padding: 5px;
+    margin-left: 110px;
+    margin-top: 94px;
+    width: 273px;
+    border: 2px solid #000;
+}
